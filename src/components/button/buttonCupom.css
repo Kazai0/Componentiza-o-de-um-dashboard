@@ -1,0 +1,18 @@
+.ButtonClass{
+    display: flex;
+    margin-left: 15px;
+    margin-right: 25px;
+    color: #FFF;
+}
+
+.ButtonClass button{
+    background-color: #FFF ;
+    border: none;
+    color: #979797;
+}
+
+.ButtonClass button:hover{
+    text-decoration: none;
+    -webkit-text-stroke: 1px #1f1f1f; 
+    transition-timing-function: ease-in-out;
+}
